@@ -1,0 +1,11 @@
+shuffle tokens: no
+shuffle proxies: yes
+
+captcha:
+  solve: no
+  service: razorcap # Supported: razorcap (https://razorcap.xyz/) | 24captcha (https://24captcha.online/)
+  api key: your key here
+
+console:
+  debug: false
+  show time: false

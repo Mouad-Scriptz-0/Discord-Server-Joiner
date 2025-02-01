@@ -1,0 +1,7 @@
+bs4==4.12.3
+primp==0.11.0
+pystyle==2.9
+PyYAML==6.0.2
+regex==2024.11.6
+requests==2.32.3
+websocket_client==1.8.0

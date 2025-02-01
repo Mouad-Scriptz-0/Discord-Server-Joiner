@@ -1,0 +1,29 @@
+[
+    {
+        "client-identifier": "chrome_127",
+        "browser-version": "127.0.0.0",
+        "headers": {
+            "Accept-Language" : "en-US,en;q=0.9",
+            "Sec-Ch-Ua"       : "\"Not)A;Brand\";v=\"99\", \"Google Chrome\";v=\"127\", \"Chromium\";v=\"127\"",
+            "User-Agent"      : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+        }
+    },
+    {
+        "client-identifier": "chrome_130",
+        "browser-version": "130.0.0.0",
+        "headers": {
+            "Accept-Language" : "en-US,en;q=0.9",
+            "Sec-Ch-Ua"       : "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+            "User-Agent"      : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+    },
+    {
+        "client-identifier": "chrome_131",
+        "browser-version": "131.0.0.0",
+        "headers": {
+            "Accept-Language" : "en-US,en;q=0.9",
+            "Sec-Ch-Ua"       : "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+            "User-Agent"      : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        }
+    }
+]
