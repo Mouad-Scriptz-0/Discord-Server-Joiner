@@ -179,7 +179,7 @@ def fetch_build_num() -> int:
                     number = int(group)
                     if number < 364202:
                         continue
-
+                    all_matches.append(number)
         return Counter(all_matches).most_common(1)[0][0]
     except:
         return 364202
